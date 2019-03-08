@@ -11,6 +11,7 @@ namespace ConsoleApp01
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GitHub");
+            Console.WriteLine("Sampath");
             Console.ReadLine();
         }
     }
