@@ -12,6 +12,7 @@ namespace ConsoleApp01
         {
             Console.WriteLine("Hello GitHub");
             Console.WriteLine("Sampath");
+            Console.WriteLine("Randika");
             Console.ReadLine();
         }
     }
