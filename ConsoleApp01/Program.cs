@@ -25,6 +25,8 @@ namespace ConsoleApp01
             int v = 10;
             if (true) Console.Write("Task Compleate");
             Console.ReadLine();
+            if (true) Console.Write("Task Compleate");
+            if (true) Console.Write("Task Compleate");
         }
     }
 }
